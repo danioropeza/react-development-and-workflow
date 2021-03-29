@@ -10,6 +10,6 @@ The way I worked was creating issues on the GitLab board. For each issue a branc
 
 ![image](https://user-images.githubusercontent.com/33135078/111860555-c316af00-891e-11eb-861b-be901b1a835d.png)
 
-At the end of each sprint (milestones in gitlab) the develop branch is merged to master. From master, a GitLab Release was created with the current application code and a docker image with the current date.
+At the end of each sprint (milestones in GitLab) the develop branch was merged to master. From master, a GitLab Release was created with the current application code and a Docker image with the current date.
 
 ![image](https://user-images.githubusercontent.com/33135078/111860614-230d5580-891f-11eb-9c5d-255be4156c24.png)

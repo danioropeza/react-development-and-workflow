@@ -2,7 +2,7 @@
 
 ### About the component.
 
-This is an example component and the main one that I used to generate the registration form seen in the video. To do this, I used React Hooks under a responsive design and the concept of mobile-first. The component shows how to make requests to the API, validations, error handling, variable parsing, etc. All the code was created using the Airbnb linter and following clean code rules.
+The src_components_subscriptionForm_SubscriptionForm.jsx file is an example component and the main one that I used to generate the registration form seen in the video. To do this, I used React Hooks under a responsive design and the concept of mobile-first. The component shows how to make requests to the API, validations, error handling, variable parsing, etc. All the code was created using the Airbnb linter and following clean code rules.
 
 ### About the workflow.
 
